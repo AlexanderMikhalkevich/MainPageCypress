@@ -1,0 +1,15 @@
+{
+  "name": "@paxful/paxful-frontend-pipelines",
+  "version": "1.0.0",
+  "description": "Frontend e2e test pipelines",
+  "main": "index.js",
+  "repository": "git@gitlab.px.tools:paxful/paxful-frontend-pipelines.git",
+  "private": true,
+  "dependencies": {
+    "cypress": "6.4.0"
+  },
+  "scripts": {
+    "test": "cypress open --browser chrome",
+    "test:headless": "cypress run --browser chrome --headless"
+  }
+}
