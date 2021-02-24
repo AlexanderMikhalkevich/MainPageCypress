@@ -1,1 +1,1 @@
-# Automationn tests for Main page
+# Automation tests for Main page
