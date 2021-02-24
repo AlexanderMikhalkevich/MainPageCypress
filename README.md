@@ -1,1 +1,1 @@
-# MainPageCypress
+# Automationn tests for Main page
